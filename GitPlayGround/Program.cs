@@ -6,7 +6,7 @@ namespace GitPlayGround
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Playing with VS, Git and GitHub");
         }
     }
 }
