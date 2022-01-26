@@ -23,5 +23,9 @@ namespace GitPlayGround
         public static int Divide(int a, int b) {
             return a / b;
         }
+        
+        public static double Power(int a, int b) {
+            return Math.Pow(a, b);
+        }
     }
 }
